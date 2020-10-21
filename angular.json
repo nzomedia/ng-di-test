@@ -105,6 +105,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-di"
+    }
+  },
+  "defaultProject": "angular-di",
+  "cli": {
+    "analytics": false
+  }
 }
